@@ -16,7 +16,7 @@ The project involved developing an interactive dashboard with three main tabs: H
    - Filter Parameters
 - Additional Tools: Ms Excel
 
-## Presentation -
+## Overview Deck -
 The [Deck](https://github.com/subrotodutta21/Amazon_E-commerce_Dashboard/blob/e4e3a99da25f0c0c7a3148a3728fb0feb425f813/Project%20Deck.pdf) showcases key features of the dashboard, highlighting key insights derived during the project, with an emphasis on actionable measures that could be implemented.<br>
 <br>
 
