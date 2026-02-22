@@ -20,11 +20,4 @@ The project involved developing an interactive dashboard with three main tabs: H
 The [Presentation](https://github.com/subrotodutta21/Amazon_E-commerce_Dashboard/blob/f43e39b8c0b1252df03f02e2dfc6cda2022d21cf/Project%20Presentation.pdf) showcases key features of the dashboard, highlighting key insights derived during the project, with an emphasis on actionable measures that could be implemented.<br>
 <br>
 
-![E-COMMERCE DASH PRESENTAION_001](https://github.com/user-attachments/assets/366d5452-634d-40be-9d16-f8672a056cac)
-![E-COMMERCE DASH PRESENTAION_002](https://github.com/user-attachments/assets/135cba1f-68b9-418b-8d79-991a41625f5a)
-![E-COMMERCE DASH PRESENTAION_003](https://github.com/user-attachments/assets/1324e57b-19fc-4a7e-86dc-00290c632073)
-![E-COMMERCE DASH PRESENTAION_004](https://github.com/user-attachments/assets/09bce213-2290-4849-8419-da1ebf3ceea0)
-![E-COMMERCE DASH PRESENTAION_005](https://github.com/user-attachments/assets/6986cae5-e008-4f83-ba59-0be503439c80)
-![E-COMMERCE DASH PRESENTAION_006](https://github.com/user-attachments/assets/2a5d1c90-2973-4f52-a5a7-50d275a6c86e)
-![E-COMMERCE DASH PRESENTAION_007](https://github.com/user-attachments/assets/f5504887-55be-4c05-9f93-f0b5409b1ebd)
-![E-COMMERCE DASH PRESENTAION_008](https://github.com/user-attachments/assets/f7b53be7-7c11-4646-9f86-a6fb5838a845)
+
